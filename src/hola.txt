@@ -1,0 +1,16 @@
+1
+Antonio banderas
+Actor y director andaluz
+Malaga
+El zorro
+#####
+2
+Raider
+Vikingo y asesino celta
+Noruega
+ÉG RIF YKKUR Í BITA
+
+
+nombre=
+clase=hola
+lvl=10
